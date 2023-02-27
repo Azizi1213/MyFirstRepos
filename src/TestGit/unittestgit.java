@@ -18,5 +18,9 @@ public class unittestgit {
 	public static int testone(int a, int b) {
 		return a-b;
 	}
+	
+	public static int testtwo(int a, int b) {
+		return a-b;
+	}
 
 }
